@@ -1,0 +1,1 @@
+profiles_list = [{'name':'example profile', 'email':'test@gmail.com', 'tel':'(999) 999-9999', 'location':'manhattan', 'addy':'101 cook way', 'zip':'10001', 'city':'New York', 'state':'NY', 'card_number':'4444545400000000', 'card_month':'05', 'card_year':'2020', 'card_cvv':'999'}]
